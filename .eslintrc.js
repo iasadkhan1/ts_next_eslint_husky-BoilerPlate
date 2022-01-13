@@ -14,7 +14,7 @@ module.exports = {
   },
   plugins: ["react", "@typescript-eslint"],
   rules: {},
-  setting: {
+  settings: {
     react: {
       version: "latest",
     },
